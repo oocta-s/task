@@ -1,1 +1,4 @@
-Name : Olumodeji Joseph	
+Name: Olumodeji Joseph	
+Track: Web Development
+Purpose: I want to be a developer so i can use my skills to create a shift in the world at large.
+	 As a developer I'd like to connect people with the world at large.
